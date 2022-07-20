@@ -21,5 +21,6 @@ public class DataType {
         System.out.println(g+h);
         System.out.println(i);
         System.out.println(j);
+        System.out.println("hello");
     }
 }
